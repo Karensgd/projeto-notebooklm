@@ -6,7 +6,7 @@
 Este projeto foi desenvolvido como atividade prática da DIO, utilizando o NotebookLM para organizar e analisar conteúdos com inteligência artificial.
 
 ## Tema do Notebook
-(Explique o tema que você escolheu, por exemplo: estudos bíblicos, engenharia de software, marketing digital, etc.)
+Escolhi o tema de investimento para iniciantes.
 
 ## Objetivo
 Utilizar o NotebookLM para:
@@ -19,15 +19,12 @@ Utilizar o NotebookLM para:
 - PDFs
 - Textos
 - Links da web
-(Descreva o que você adicionou)
 
 ## Acesso ao projeto
 Link do NotebookLM:
-COLE AQUI O LINK QUE VOCÊ COPIOU
+https://notebooklm.google.com/notebook/03854e9e-99bb-4fa0-9560-191adb94668e
 
 ## Tecnologias utilizadas
 - NotebookLM
 - Inteligência Artificial (Google AI)
 
-## Evidências
-(Adicione prints do seu NotebookLM aqui)
